@@ -4,3 +4,9 @@ This course introduces robotics by discussing basic laws, architectures, control
 
 # RAD's Playlist
 https://youtube.com/playlist?list=PLkE3k0P4Vrn1iw1BCGbvFxABPjSO3ktJB
+
+# RBR's Playlist
+https://youtube.com/playlist?list=PLWCaK_oHHOY6sCTaTOe_fGmdALn-vh9lT
+
+# KHR's Playlist
+https://www.youtube.com/@drmdkhalilurrhaman4551/videos
