@@ -10,3 +10,6 @@ https://youtube.com/playlist?list=PLWCaK_oHHOY6sCTaTOe_fGmdALn-vh9lT
 
 # KHR's Playlist
 https://www.youtube.com/@drmdkhalilurrhaman4551/videos
+
+# Robot Navigation
+https://youtu.be/Uk9kiV4vOxQ?si=Lbi2cqNHwsLYrqPr
