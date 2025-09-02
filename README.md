@@ -12,4 +12,4 @@ https://youtube.com/playlist?list=PLWCaK_oHHOY6sCTaTOe_fGmdALn-vh9lT
 https://www.youtube.com/@drmdkhalilurrhaman4551/videos
 
 # Robot Navigation
-https://youtu.be/Uk9kiV4vOxQ?si=Lbi2cqNHwsLYrqPr
+https://www.youtube.com/watch?v=Uk9kiV4vOxQ&list=PLaSB6VUhIzOTqM7KOdiLVqMfCb2qWhNr4&pp=0gcJCXwEOCosWNin
